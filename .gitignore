@@ -4,6 +4,9 @@
 
 # 실행파일
 test
+01_PRINT_VERSION
+02_REMUXING
+sample_video.mp4
 
 ### C++ ###
 # Prerequisites
